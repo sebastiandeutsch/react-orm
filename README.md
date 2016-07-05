@@ -1,9 +1,16 @@
-# Goals
+# Moving targets
 
-- Repository notifies if it changes
-  - onCreate
-  - onRemove
-  - onUpdate
+- [ ] Way to specify models (including relations) on the client
+  - [ ] 1..N
+  - [ ] N..M
+  - [ ] 1..1
+- [ ] Elegant implementation for models and collections
+- [ ] Subscribe mechanism
+- [ ] Collections and models should update the components they're registered in
+- [ ] Render models
+  - [ ] Render single object
+  - [ ] Render collection
+  - [ ] Paginate collection
 
 # Install
 
