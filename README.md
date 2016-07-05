@@ -1,6 +1,6 @@
 # Moving targets
 
-- [ ] Way to specify models (including relations) on the client
+- [ ] Way to specify models (including relations) on the client
   - [ ] 1..N
   - [ ] N..M
   - [ ] 1..1
